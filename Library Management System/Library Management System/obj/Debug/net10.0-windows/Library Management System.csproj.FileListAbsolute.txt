@@ -1,0 +1,70 @@
+D:\LibraryManagementSystem\Library Management System\Library Management System\obj\Debug\net10.0-windows\Library Management System.csproj.AssemblyReference.cache
+D:\LibraryManagementSystem\Library Management System\Library Management System\obj\Debug\net10.0-windows\Library_Management_System.FORMS.AddBook.resources
+D:\LibraryManagementSystem\Library Management System\Library Management System\obj\Debug\net10.0-windows\Library_Management_System.FORMS.AddStudent.resources
+D:\LibraryManagementSystem\Library Management System\Library Management System\obj\Debug\net10.0-windows\Library_Management_System.FORMS.completeBookDetails.resources
+D:\LibraryManagementSystem\Library Management System\Library Management System\obj\Debug\net10.0-windows\Library_Management_System.FORMS.Dashboard_Form.resources
+D:\LibraryManagementSystem\Library Management System\Library Management System\obj\Debug\net10.0-windows\Library_Management_System.FORMS.interfaceSelect.resources
+D:\LibraryManagementSystem\Library Management System\Library Management System\obj\Debug\net10.0-windows\Library_Management_System.FORMS.issueBook.resources
+D:\LibraryManagementSystem\Library Management System\Library Management System\obj\Debug\net10.0-windows\Library_Management_System.FORMS.Login_Form.resources
+D:\LibraryManagementSystem\Library Management System\Library Management System\obj\Debug\net10.0-windows\Library_Management_System.FORMS.returnBook.resources
+D:\LibraryManagementSystem\Library Management System\Library Management System\obj\Debug\net10.0-windows\Library_Management_System.FORMS.ViewStudentinfo.resources
+D:\LibraryManagementSystem\Library Management System\Library Management System\obj\Debug\net10.0-windows\Library_Management_System.FORMS.View_Bookinfo.resources
+D:\LibraryManagementSystem\Library Management System\Library Management System\obj\Debug\net10.0-windows\Library_Management_System.Properties.Resources.resources
+D:\LibraryManagementSystem\Library Management System\Library Management System\obj\Debug\net10.0-windows\Library Management System.csproj.GenerateResource.cache
+D:\LibraryManagementSystem\Library Management System\Library Management System\obj\Debug\net10.0-windows\Library Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\LibraryManagementSystem\Library Management System\Library Management System\obj\Debug\net10.0-windows\Library Management System.AssemblyInfoInputs.cache
+D:\LibraryManagementSystem\Library Management System\Library Management System\obj\Debug\net10.0-windows\Library Management System.AssemblyInfo.cs
+D:\LibraryManagementSystem\Library Management System\Library Management System\obj\Debug\net10.0-windows\Library Management System.csproj.CoreCompileInputs.cache
+D:\LibraryManagementSystem\Library Management System\Library Management System\obj\Debug\net10.0-windows\Library Management System.sourcelink.json
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\Library Management System.exe
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\Library Management System.deps.json
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\Library Management System.runtimeconfig.json
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\Library Management System.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\Library Management System.pdb
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\Azure.Core.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\Azure.Identity.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\System.ClientModel.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\System.Memory.Data.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\obj\Debug\net10.0-windows\Library .F7D87690.Up2Date
+D:\LibraryManagementSystem\Library Management System\Library Management System\obj\Debug\net10.0-windows\Library Management System.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\obj\Debug\net10.0-windows\refint\Library Management System.dll
+D:\LibraryManagementSystem\Library Management System\Library Management System\obj\Debug\net10.0-windows\Library Management System.pdb
+D:\LibraryManagementSystem\Library Management System\Library Management System\obj\Debug\net10.0-windows\Library Management System.genruntimeconfig.cache
+D:\LibraryManagementSystem\Library Management System\Library Management System\obj\Debug\net10.0-windows\ref\Library Management System.dll

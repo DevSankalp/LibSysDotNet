@@ -1,0 +1,15 @@
+D:\LibraryManagementSystem\Library Management System\CommandLine\bin\Debug\net10.0\CommandLine.exe
+D:\LibraryManagementSystem\Library Management System\CommandLine\bin\Debug\net10.0\CommandLine.deps.json
+D:\LibraryManagementSystem\Library Management System\CommandLine\bin\Debug\net10.0\CommandLine.runtimeconfig.json
+D:\LibraryManagementSystem\Library Management System\CommandLine\bin\Debug\net10.0\CommandLine.dll
+D:\LibraryManagementSystem\Library Management System\CommandLine\bin\Debug\net10.0\CommandLine.pdb
+D:\LibraryManagementSystem\Library Management System\CommandLine\obj\Debug\net10.0\CommandLine.GeneratedMSBuildEditorConfig.editorconfig
+D:\LibraryManagementSystem\Library Management System\CommandLine\obj\Debug\net10.0\CommandLine.AssemblyInfoInputs.cache
+D:\LibraryManagementSystem\Library Management System\CommandLine\obj\Debug\net10.0\CommandLine.AssemblyInfo.cs
+D:\LibraryManagementSystem\Library Management System\CommandLine\obj\Debug\net10.0\CommandLine.csproj.CoreCompileInputs.cache
+D:\LibraryManagementSystem\Library Management System\CommandLine\obj\Debug\net10.0\CommandLine.sourcelink.json
+D:\LibraryManagementSystem\Library Management System\CommandLine\obj\Debug\net10.0\CommandLine.dll
+D:\LibraryManagementSystem\Library Management System\CommandLine\obj\Debug\net10.0\refint\CommandLine.dll
+D:\LibraryManagementSystem\Library Management System\CommandLine\obj\Debug\net10.0\CommandLine.pdb
+D:\LibraryManagementSystem\Library Management System\CommandLine\obj\Debug\net10.0\CommandLine.genruntimeconfig.cache
+D:\LibraryManagementSystem\Library Management System\CommandLine\obj\Debug\net10.0\ref\CommandLine.dll
